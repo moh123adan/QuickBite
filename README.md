@@ -1,6 +1,9 @@
-# 🍕 Food Delivery App
 
+# 🍕 QuickBite
+**QuickBite** is a comprehensive food ordering and delivery platform developed as the final project for React course. This web application is designed to streamline the process of browsing, ordering, and delivering food, providing an intuitive interface and robust features for users.
+# 🍕 Food Delivery App
 **Food Delivery App** is a comprehensive food ordering and delivery platform developed as the final project for a university MERN Development course. This web application is designed to streamline the process of browsing, ordering, and delivering food, providing an intuitive interface and robust features for users.
+
 
 ## Features 🚀
 
@@ -118,7 +121,9 @@ npm start
   This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Thank you for checking out Food Delivery App! We hope you find it useful and enjoyable to use. 🍽️
+
   ```css
 Make sure you copy and paste the entire content to avoid missing any part of the markdown syntax. This should ensure that the code blocks and other markdown elements render correctly in your README file.
   ```
+
     
